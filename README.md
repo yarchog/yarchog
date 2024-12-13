@@ -1,2 +1,2 @@
 # About me
-📚 Student of the Silesian University of Technology
+📚 Student at the Silesian University of Technology
